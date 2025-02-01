@@ -1,0 +1,1 @@
+This will be a basic website design using only HTML skills to showcase what I have learned in the Foundations of HTML course on The Odin Project.
