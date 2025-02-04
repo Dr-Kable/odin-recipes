@@ -1,0 +1,29 @@
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: 'Comic Sans MS', 'Brush Script MT', Arial;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#link {
+    text-align: center;
+    color: blue;
+}
+
+.image {
+    text-align: center;
+}
+
+ol li strong{
+    background-color: yellow;
+    text-decoration: underline;
+}
+ol li li {
+    font-style:italic;
+}
